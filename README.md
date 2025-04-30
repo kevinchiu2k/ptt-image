@@ -17,6 +17,7 @@
 > uv run ../koreadrama-v0.2.py
 > 
 ![image](image/koreadrama-doc001.png "terminal pic")
+<img src="koreadrama-doc001.png" width="200" height="100">
 
 6. 使用下面命令編譯程式，這支程式是為抓取"KoreaStart" 所有圖片
 > uv run ../koreastart-v0.2.py
